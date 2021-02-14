@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Person component should render 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-eCssSg irLLlc"
+  >
+    <div
+      class="sc-dlfnbm jlxFCq"
+    />
+    <h3
+      class="sc-jSgupP eEVLrb"
+    >
+      Gregar Typho
+    </h3>
+    <div
+      class="sc-gKsewC jtFuZl"
+    >
+      Birth year: unknown
+    </div>
+    Loading...Loading...
+  </div>
+</DocumentFragment>
+`;

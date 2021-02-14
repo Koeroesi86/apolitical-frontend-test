@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cachedFetch should call axios only once 1`] = `
+Request {
+  "config": Object {
+    "adapter": [Function],
+    "data": undefined,
+    "headers": Object {
+      "Accept": "application/json, text/plain, */*",
+    },
+    "maxBodyLength": -1,
+    "maxContentLength": -1,
+    "method": "get",
+    "timeout": 0,
+    "transformRequest": Array [
+      [Function],
+    ],
+    "transformResponse": Array [
+      [Function],
+    ],
+    "url": "https://example.com",
+    "validateStatus": [Function],
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+  },
+  "headers": Object {
+    "Accept": "application/json, text/plain, */*",
+  },
+  "reject": [Function],
+  "resolve": [Function],
+  "responseType": undefined,
+  "timeout": 0,
+  "url": "https://example.com",
+  "withCredentials": false,
+}
+`;

@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination component should dispatch page changes 1`] = `
+Array [
+  Array [
+    1,
+  ],
+  Array [
+    3,
+  ],
+  Array [
+    8,
+  ],
+]
+`;
+
+exports[`Pagination component should render 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ gtvswt"
+  >
+    <button
+      class="sc-gsTCUz gciomF"
+      data-testid="previous-page"
+    >
+      Previous page
+    </button>
+    <button
+      class="sc-dlfnbm YMeyH"
+      data-testid="page-1"
+    >
+      1
+    </button>
+    <button
+      class="sc-dlfnbm YMeyH"
+      data-testid="page-2"
+      disabled=""
+    >
+      2
+    </button>
+    <button
+      class="sc-dlfnbm YMeyH"
+      data-testid="page-3"
+    >
+      3
+    </button>
+    <button
+      class="sc-dlfnbm YMeyH"
+      data-testid="page-4"
+    >
+      4
+    </button>
+    <button
+      class="sc-dlfnbm YMeyH"
+      data-testid="page-5"
+    >
+      5
+    </button>
+    <button
+      class="sc-dlfnbm YMeyH"
+      data-testid="page-6"
+    >
+      6
+    </button>
+    <button
+      class="sc-dlfnbm YMeyH"
+      data-testid="page-7"
+    >
+      7
+    </button>
+    <button
+      class="sc-dlfnbm YMeyH"
+      data-testid="page-8"
+    >
+      8
+    </button>
+    <button
+      class="sc-dlfnbm YMeyH"
+      data-testid="page-9"
+    >
+      9
+    </button>
+    <button
+      class="sc-dlfnbm YMeyH"
+      data-testid="page-10"
+    >
+      10
+    </button>
+    <button
+      class="sc-gsTCUz gciomF"
+      data-testid="next-page"
+    >
+      Next page
+    </button>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`fetchAll should fetch next pages: cachedFetch calls 1`] = `
+Array [
+  Array [
+    "https://example.com/1",
+  ],
+  Array [
+    "https://example.com/2",
+  ],
+]
+`;
+
+exports[`fetchAll should fetch next pages: result 1`] = `
+Array [
+  "1",
+  "2",
+  "3",
+  "4",
+]
+`;
